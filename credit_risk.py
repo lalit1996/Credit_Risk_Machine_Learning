@@ -134,6 +134,8 @@ defualter()
 #
 
 
+print("hello world")
+
 # load_data_to_dataframe('select * from [Credit_Risk].[dbo].[credit_risk_dataset]')
 #
 # defualter()
